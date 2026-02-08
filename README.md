@@ -19,4 +19,4 @@ Currently learning to bridge the gap between **Business Strategy** and **Data Sc
 ---
 
 ### 📊 My GitHub Stats
-![Vino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhostore&show_icons=true&theme=tokyonight)
+![Vino's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvindra&show_icons=true&theme=tokyonight)
