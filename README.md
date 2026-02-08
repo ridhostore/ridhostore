@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Vino! 👋
 
-<!--
-**ridhostore/ridhostore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Digital Business Student** at **Universitas Muhammadiyah Surakarta (UMS)**.
+Currently learning to bridge the gap between **Business Strategy** and **Data Science**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Data Analysis for SMEs (UMKM)**
+- 🌱 I’m currently learning: **Python, Linux (WSL), & AI Product Management**
+- 💼 My goal: To become a professional **Data Analyst / AI Product Manager**
+- ⚡ Fun fact: I run my code on a **ThinkPad T470** with **Ubuntu**! 🐧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+![Vino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhostore&show_icons=true&theme=tokyonight)
