@@ -18,4 +18,4 @@ Currently learning to bridge the gap between **Business Strategy** and **Data Sc
 
 ---
 
-![Ridho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhostore&show_icons=true&theme=tokyonight)
+![Ridho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridhostore&theme=tokyonight&hide_border=true)
